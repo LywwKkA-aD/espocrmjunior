@@ -20,3 +20,7 @@ This JSON file defines the scope metadata for the `AutoCrm` module, specifying t
 ### `/custom/Espo/Modules/AutoCrm/Resources/routes.json`
 This JSON file defines the routes for the `AutoCrm` module, mapping the "Find Contacts" action to its controller and method.
 
+
+<img width="1273" alt="image" src="https://github.com/LywwKkA-aD/espocrmjunior/assets/129105081/a42e12ef-ae19-4494-a1aa-f86ff5cb61c2">
+
+
