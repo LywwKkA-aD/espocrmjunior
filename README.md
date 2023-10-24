@@ -1,6 +1,7 @@
 # AutoCrm Module for EspoCRM
 
 This module adds a functionality to find contacts with the same email as the lead.
+Documentation: https://docs.espocrm.com/development/
 
 ## Files
 
