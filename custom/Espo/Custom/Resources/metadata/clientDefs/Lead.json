@@ -1,0 +1,14 @@
+{
+    "detailActionList": [
+        "__APPEND__",
+        {
+            "label": "Find Contacts",
+            "name": "test",
+            "acl": "edit",
+            "data": {
+                "handler": "custom:my-action-handler"
+            },
+            "initFunction": "initTest"
+        }
+    ]
+}

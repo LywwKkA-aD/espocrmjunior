@@ -1,0 +1,10 @@
+[
+    {
+        "route": "/AutoCrm/action/FindContacts/:id",
+        "method": "get",
+        "params": {
+            "controller": "AutoCrm",
+            "action": "FindContacts"
+        }
+    }
+]
