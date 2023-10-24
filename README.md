@@ -22,6 +22,8 @@ This JSON file defines the routes for the `AutoCrm` module, mapping the "Find Co
 
 <img width="940" alt="image" src="https://github.com/LywwKkA-aD/espocrmjunior/assets/129105081/f701eb92-94ef-43de-8456-a2cc825ef6be">
 
+<img width="379" alt="image" src="https://github.com/LywwKkA-aD/espocrmjunior/assets/129105081/fa7915e0-85c6-4954-a9e5-f47c7c068634">
+
 <img width="1273" alt="image" src="https://github.com/LywwKkA-aD/espocrmjunior/assets/129105081/a42e12ef-ae19-4494-a1aa-f86ff5cb61c2">
 
 
